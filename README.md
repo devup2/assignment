@@ -2,6 +2,8 @@
 
 ### Compile package
 ```bash
+> git clone https://github.com/devup2/assignment 
+> cd assignment
 > mvn compile
 > cd target/classes
 ```
